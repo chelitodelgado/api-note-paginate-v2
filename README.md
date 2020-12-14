@@ -9,7 +9,7 @@
 ### Ejecutar el siguiente comando en la terminal: 
     $ npm install
 
-### Congifurar la base de datos de mongoDB en el archivo src/databse.js:
+### Congifurar el nombre de la base de datos de mongoDB en el archivo src/databse.js:
     >> mongoose.connect('mongodb://localhost/<nombre-database>', {
 
 ### Ejecutar lo siguiente en terminal:
