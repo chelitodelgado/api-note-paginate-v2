@@ -1,5 +1,5 @@
 <p align="center">
-    <img src="./img/logo.png">
+    <img src="img/logo.png">
 </p>
 
 # API NOTE MONGOOSE PAGINATE V2
@@ -21,17 +21,17 @@
 
 ###### Muestra toda la colección
 <p align="center">
-    <img src="./img/01.png">
+    <img src="img/01.png">
 </p>
 
 ###### Muestra la página a especificar
 <p align="center">
-    <img src="./img/02.png">
+    <img src="img/02.png">
 </p>
 
 ###### Limitar la cantidad de colecciones en la pagina   
 <p align="center">
-    <img src="./img/03.png">
+    <img src="img/03.png">
 </p>
 
 ### Para mas información consulat la pagina de Mongoose Paginate v2
